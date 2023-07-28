@@ -16,7 +16,7 @@ body{
 }
 
 .qr-card{
-    max-width: 300px;
+    max-width: 320px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 1rem;
     padding: 1.2rem;
