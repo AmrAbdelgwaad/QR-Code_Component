@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 
- [ Live Site URL](https://your-live-site-url.com)
+ [ Live Site URL]([https://your-live-site-url.com](https://amrabdelgwaad.github.io/QR-Code_Component/))
 
 ## My process
 
@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-#### how to center a div in the middle of the screen 
+#### How to center a div in the middle of the screen 
 
 
 ```css
@@ -49,8 +49,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
-## Where to find me
-[Linkedin](www.linkedin.com/in/amr-mohamed-7534a623b)
+## My Frontend Mentor link
+
 
 [Frontend Mentor](https://www.frontendmentor.io/profile/AmrAborockpa)
 
