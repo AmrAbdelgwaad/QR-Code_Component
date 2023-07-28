@@ -29,10 +29,11 @@ img{
 
 
 h1{
-    font-size:  1.1rem;
+    font-size:  1.3rem;
     color: hsl(218, 44%, 22%);
     text-align: center;
     margin: 1rem .5rem 1rem;
+     white-space: pre-line;
 
 }
 
